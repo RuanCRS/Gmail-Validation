@@ -3,7 +3,7 @@
 
 
 ```js
-$ npm install gmail-validation --save
+npm install gmail-validation --save
 ```
 ```js
 var gv =  require('gmail-validation');
