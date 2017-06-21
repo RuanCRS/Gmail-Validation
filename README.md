@@ -11,6 +11,13 @@ var gv =  require('gmail-validation');
 gv.Gmail('Insert Email');
 
 ```
+```js
+if(gv.GmailValidationError() === true){
+  //Gmail true
+}else {
+  //Gmail false
+}
+```
 
 ## Installation
 
@@ -33,5 +40,3 @@ $ npm start
 ## License
 
   [MIT](LICENSE)
-
-
