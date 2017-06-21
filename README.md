@@ -2,8 +2,6 @@
 
 
 
-  [![NPM Version][npm-image]][npm-url]
-
 ## Gmail-Validation
 
 
